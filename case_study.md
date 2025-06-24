@@ -25,7 +25,7 @@ The process was straightforward: I prompted DeepSeek AI and its Deepthink featur
 
 When I asked DeepSeek to write the plot, the model demonstrated a strong capacity for generating a storyline that aligned with the core philosophical twist. It is safe to assume that DeepSeek AI's training data includes facts about the plots of the *Final Destination* movies. Even with the new twist, it was able to deliver satisfactory results.
 
-One problem was that the AI model went overboard, adding extra elements that were unnecessary for the plot. This, however, resulted from a misinterpreted prompt and was fixed with an additional clarification. Another problem was the inconsistency of story events, as seen in the `raw_chat_threat.txt` file, which is easily solvable with more detailed prompting about the sequence of events.
+One problem was that the AI model went overboard, adding extra elements that were unnecessary for the plot. This, however, resulted from a misinterpreted prompt and was fixed with an additional clarification. Another problem was the inconsistency of story events, as demonstrated in the full [Raw Chat Thread](https://github.com/Noyonbond47/AI-to-create-a-final-destination-plot-with-a-twist/blob/main/raw_chat_thread.pdf), which is easily solvable with more detailed prompting about the sequence of events.
 
 However, this was not a major issue, as the goal of this case study was to see if an AI could add a twist that subverts the mechanics of an established world, and if an LLM's training could enable it to output deeper statements on the concept of life and death. And surprisingly, it delivered more than expected.
 
