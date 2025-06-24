@@ -4,7 +4,7 @@ This repository contains the documentation for "Final Acceptance," a research pr
 
 The project was inspired by the work of the late actor Tony Todd and aims to analyze how a Large Language Model can handle deep, abstract concepts when prompted to re-imagine a well-known intellectual property.
 
-**[➡️ Read the Full, In-Depth Case Study Here]((https://github.com/Noyonbond47/AI-to-create-a-final-destination-plot-with-a-twist/blob/main/case_study.md))**
+[➡️ Read the Full, In-Depth Case Study Here](https://github.com/Noyonbond47/AI-to-create-a-final-destination-plot-with-a-twist/blob/main/case_study.md))
 
 ---
 
